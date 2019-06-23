@@ -1,4 +1,4 @@
-module remind_okan
+module template
 
 go 1.12
 
